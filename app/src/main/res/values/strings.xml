@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Recordbuss</string>
+    <string name="addEmp">Add a new employee</string>
+    <string name="addBill">Generate bill</string>
+    <string name="showEmp">Show employees</string>
+    <string name="showBill">Show bill Record</string>
+
+    <string name="hint_cn">contact</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_Adhar">Adahar Id</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+
+
+    <string name="register">Register </string>
+    <string name="show_list_benef">List of Registered Beneficiary</string>
+    <string name="error_bill">bill no already exist</string>
+
+    <string name="error_emp">Adahare no already exist</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+
+    <string name="billNo">Bill no</string>
+    <string name="prod">Product</string>
+    <string name="cost">cost</string>
+    <string name="address">Address</string>
+    <string name="sal">salary</string>
+    <string name="genrate">genrate</string>
+
+    <string name="empAdhar">Adhar no</string>
+    <string name="empAddress">Address</string>
+    <string name="empSal">Salary</string>
+
+
+</resources>
